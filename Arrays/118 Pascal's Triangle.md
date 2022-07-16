@@ -1,6 +1,6 @@
 ### Given an integer numRows, return the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 
-
+<img src="https://github.com/adityanaranje/Striver-s-SDE-Sheet/blob/main/Arrays/PascalTriangleAnimated.gif">
  
 #### Example 1:
 
