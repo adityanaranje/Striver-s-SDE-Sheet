@@ -67,3 +67,6 @@ Could you devise a constant space solution?
             if cols[i]==1:
                 for l in range(r):
                     matrix[l][i] = 0
+
+
+[Go To Problem](https://leetcode.com/problems/set-matrix-zeroes/)
