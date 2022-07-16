@@ -2,6 +2,9 @@
 
 <img src="https://github.com/adityanaranje/Striver-s-SDE-Sheet/blob/main/Arrays/PascalTriangleAnimated.gif">
  
+ #### Diff: Easy
+ 
+ 
 #### Example 1:
 
 Input: numRows = 5
