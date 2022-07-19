@@ -4,6 +4,9 @@
 
 #### Example 1:
 
+
+<img src="https://github.com/adityanaranje/Striver-s-SDE-Sheet/blob/main/Arrays%20Part%20II/rotate_matrix.jpg">
+
 Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
 
 Output: [[7,4,1],[8,5,2],[9,6,3]]
